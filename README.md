@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-regression model course
+This is only for learning porpuses
